@@ -1,0 +1,82 @@
+# Week 1 Highlights
+
+## Problems Solved
+
+1. Convert the Temperature
+- Solved in 5 minutes, demonstrating strong understanding of basic programming concepts
+- Optimized solution by eliminating unnecessary variable storage, reducing memory usage by 1MB in the second submission
+
+2. Best Time to Buy and Sell Stock
+- Submission accepted on the 6th try after learning basic dynamic programming concepts
+- This problem introduced me to dynamic programming as well as its importance and benefits
+
+3. Majority Element
+- First submission accepted in 26 minutes
+- Utilized a hash map approach, which strenghened my understanding of hash maps and their methods and syntax
+
+4. Maximum Average Subarray 1
+- Submission accepted on 6th attempt
+- Learned the sliding window programming technique which led me to success on my 6th submission
+- Final optimized solution reduced run-time by 2ms and memory usage by 1MB
+- Comparing this solution to that of 'Best Time to Buy and Sell Stock' helped me with differentiate between dynamic programming and the sliding window technique
+
+## Problems Attempted
+
+1. Maximum Subarray
+- Four unsuccessful submissions
+- Fourth submission passed 165/210 testcases, failed due to an edge case (last value in the array)
+
+2. Minimum Size Subarray Sum
+- One unsuccessful attempt due to time limit exception; 18/21 test cases passed
+- Initially used a brute-force approach, later realizing that the sliding window technique offers a more optimal solution
+
+## Concepts Learned
+
+1. Sliding Window Technique
+2. Dynamic Programming
+3. Caching
+4. Load Balancing
+5. Hash Maps
+
+## Challenges
+
+1. Determing the optimal technique or strategy to use to solve problems
+2. Limited knowledge of programming techniques and strategies
+3. Struggling to properly apply learned concepts, such as the sliding window technique
+4. Difficulty with medium-level problems
+5. Rustiness in hash map syntax
+6. Balancing persistence with efficiency
+
+## Additional Learning
+
+1. **Cracking the Coding Interview** by Gayle Laakmann McDowell (pages 1-15)
+  *Key Takeaways:
+    * You are not completely assessed on your performance alone in interviews, rather how your performance compared to others.
+    * Each company will interview differently based on what it is they seek.
+2. Watched Neetcode's *Maximum Product Subarray* tutorial:
+  * Helped me gain confidence and understanding in solving similar array problems
+3. Watched CS Dojo's *Dynamic Programming* video
+  * Significantly strengthened my grasp and knowledge of dynamic programming
+4. Watched Tech Lead's *How to Learn to Code* video
+  * Motivated me to continue with my learning journey and reassured me that my approach was up-to-par with expert advice
+  * Reminded me to stop procrastinating on personal projects
+5. Watched IBM's *What is a Load Balancer* video
+  * Learned how the concept of load balancing works within networks
+
+## Key Reflections
+
+1. My problem-solving and critical thinking skills have improved after learning more about sliding window, dyanmic programming, and Kadane's algorithm
+2. Attempting various problems and challenging myself has provided more value than simply overlooking problems
+3. I still need more practice determining the appropriate technique or strategy for different problems
+4. Combining knowledge from multiple resources has enhanced my understanding of concepts
+5. Slightly enhanced grasp of time complexities and Big O notation
+6. The satisfaction of solving or understanding problems has been a great motivator
+
+## Next Steps
+
+1. Revisit sliding window problems to solidify the technique and retain the knowledge, strengthening key techniques
+2. Strenghten my confidence with medium difficulty problems
+3. Incorporate small syntax drills to improve speed and efficiency
+4. Focus on improving problem-solving efficiency
+5. Deepen my understanding of system design concepts
+6. Begin planning a mini-project idea to apply what I've learned
