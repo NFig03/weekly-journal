@@ -2,7 +2,10 @@
 
 ## Problems Solved
 
-1. 
+1. Repeated DNA Sequences (LeetCode)
+- Successful submission on third attempt with a 19ms runtime beating 57.83% of submissions
+- First submission failed due to time limit exception; this was solved by swapping a list to a hash map
+- Second submission returned an incorrect answer as a left pointer was not being properly iterated; this led to an excessively long window
 
 ## Problems Attempted
 
